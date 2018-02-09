@@ -1,18 +1,6 @@
 # Welcome!
 
-This C++ template lets you get started quickly with a simple one-page playground.
-
-```C++ runnable
-#include <iostream>
-
-using namespace std;
-
-int main() 
-{
-    cout << "Hello, World!";
-    return 0;
-}
-```
+This C++ code should only be used to learn/experiment with classes and their implementations. Use the std::stack class implementation for actual program implementation.
 
 # Advanced usage
 
